@@ -13,4 +13,4 @@ A content-based movie recommendation engine built using Python, Machine Learning
 5. Run the application: `streamlit run app.py`
 
 ## Project Artifacts (Google Drive Link)
-- [Download Trained Model Files Here](PASTE_YOUR_GOOGLE_DRIVE_FOLDER_LINK_HERE)
+- [Download Trained Model Files Here](https://drive.google.com/drive/folders/11VQuzpDPHPnIv3Y_8YyWNlg5mgNwxvxa?usp=drive_link)
